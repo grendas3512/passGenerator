@@ -1,0 +1,16 @@
+.bebas-neue-regular {
+       font-family: "Bebas Neue", sans-serif;
+       font-weight: 400;
+       font-style: normal;
+}
+
+body {
+       background-color: #333333 !important ;
+       padding: 3rem;
+}
+
+.cont{
+       background-color: #252525;
+       padding: 1rem;
+       border-radius: 1rem;
+}
